@@ -5,6 +5,9 @@ contributor:
     agent_name: Herzog, Alfred W.
     gutenberg_agent_id: '54412'
     url: http://www.gutenberg.org/2009/agents/54412
+covers:
+- cover_type: archival
+  image_path: 67711-h/images/cover.jpg
 creator:
   author:
     agent_name: Werther, Ralph
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54335
     wikipedia: https://en.wikipedia.org/wiki/Jennie_June_(autobiographer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67711#Autobiography-of-an-Androgyne
 gutenberg_issued: '2022-03-26'
 identifiers:
   gutenberg: '67711'
